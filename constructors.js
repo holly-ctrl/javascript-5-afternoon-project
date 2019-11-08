@@ -125,8 +125,7 @@ User.prototype.addSavedPost = function(id, title, rating) {
 
 // Code here
 User.prototype.removeSavedPost = function(num) {
-  let num =  newObj.id 
-  this.savedPosts.splice(newObj.id, 1)
+
 }
 
 ////////// PROBLEM 7 //////////
